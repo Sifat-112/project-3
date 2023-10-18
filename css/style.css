@@ -1,0 +1,42 @@
+.header{
+	height: 100px;
+	background-color: #264653;
+}
+.container{
+	
+	overflow: hidden;
+}
+.yellow{
+	width: 65%;
+	height: 200px;
+	background-color: yellow;
+	float: left;
+}
+.tint{
+	width: 30%;
+	height: 200px;
+	background-color: violet;
+	float: right;
+}
+
+.box{
+	float: left;
+	width: 33.33%;
+	height: 200px;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green;
+}
+.aqua{
+	background-color: aqua;
+	float: ;
+}
+.footer{
+
+	height: 100px;
+	background-color: black;
+	
+}
